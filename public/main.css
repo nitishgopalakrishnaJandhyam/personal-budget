@@ -1,3 +1,4 @@
+
 * {
     box-sizing: border-box;
 }
@@ -79,7 +80,6 @@ header.hero h2 {
     padding: 40px;
 }
 
-
 .center {
     text-align: center;
 }
@@ -96,14 +96,4 @@ header.hero h2 {
     .container .div.text-box {
         margin: 10px;
     }
-}
-
-svg{
-    overflow: visible;
-}
-
-.charts{
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
 }

@@ -71,7 +71,6 @@ pre {
 
 /**
  * Remove the gray background on active links in IE 10.
- 
  */
 
 a {
@@ -321,6 +320,7 @@ textarea {
 details {
   display: block;
 }
+
 
 /*
  * Add the correct display in all browsers.
